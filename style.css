@@ -52,7 +52,7 @@ hr {
 .image-circle {
   border-radius: 50%;
   footer {
-    text-align: left;
+    text-align: center;
     }
   border: 2px solid #003049
 }
