@@ -50,6 +50,9 @@ hr {
 
 /* Add your solution below */
 
+a:link { color: #d62828; }
+a:hover { color: #f77f00; }
+
 .image-circle {
   border-radius: 50%;
     border: 2px solid #003049
